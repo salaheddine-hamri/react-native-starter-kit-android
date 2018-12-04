@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ab/Documents/GitHub/react-native-starter-kit-android/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f1cd7818bcf4b7fd75cadffd9d561b46/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/ab/Documents/GitHub/react-native-starter-kit-android/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f1cd7818bcf4b7fd75cadffd9d561b46/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

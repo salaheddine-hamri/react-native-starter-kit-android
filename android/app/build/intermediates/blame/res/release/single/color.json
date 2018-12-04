@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/design_tint_password_toggle.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f1cd7818bcf4b7fd75cadffd9d561b46/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/1411b4607b77a4fd91a159d5de2abef9/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/design_error.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f1cd7818bcf4b7fd75cadffd9d561b46/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/1411b4607b77a4fd91a159d5de2abef9/res/color/common_google_signin_btn_text_light.xml"
+    }
+]

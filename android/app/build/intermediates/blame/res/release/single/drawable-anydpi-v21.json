@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f1cd7818bcf4b7fd75cadffd9d561b46/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/ic_arrow_back_black_24dp.xml",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/node_modules/react-native-navigation/lib/android/app/build/intermediates/packaged_res/reactNative56/release/drawable-anydpi-v21/ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f1cd7818bcf4b7fd75cadffd9d561b46/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]

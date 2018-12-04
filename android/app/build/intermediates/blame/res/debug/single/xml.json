@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ab/Documents/GitHub/react-native-starter-kit-android/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/c23694ee4200d8794888666cc0fe208d/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/ab/Documents/GitHub/react-native-starter-kit-android/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/ab/Documents/GitHub/react-native-starter-kit-android/node_modules/react-native-image-picker/android/build/intermediates/packaged_res/debug/xml/provider_paths.xml"
+    }
+]

@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/fab_add.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/c520223b5548c4d85e4fad5162b6b1dd/res/drawable-mdpi-v4/fab_add.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/1411b4607b77a4fd91a159d5de2abef9/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/src_img_1024.png",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/src/main/res/drawable-mdpi/src_img_1024.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/661643ef67cff0accdaf2b6a153a275c/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/1411b4607b77a4fd91a159d5de2abef9/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/node_modules_reactnativestars_exampleimages_starhalf.png",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/src/main/res/drawable-mdpi/node_modules_reactnativestars_exampleimages_starhalf.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/1411b4607b77a4fd91a159d5de2abef9/res/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/1411b4607b77a4fd91a159d5de2abef9/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/design_ic_visibility_off.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f1cd7818bcf4b7fd75cadffd9d561b46/res/drawable-mdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/661643ef67cff0accdaf2b6a153a275c/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/1411b4607b77a4fd91a159d5de2abef9/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/1411b4607b77a4fd91a159d5de2abef9/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/src_img_page1.png",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/src/main/res/drawable-mdpi/src_img_page1.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/node_modules_reactnativeelements_src_rating_images_rocket.png",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeelements_src_rating_images_rocket.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/1411b4607b77a4fd91a159d5de2abef9/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/src_img_consultantbg.jpg",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/src/main/res/drawable-mdpi/src_img_consultantbg.jpg"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/node_modules_reactnativeelements_src_rating_images_star.png",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeelements_src_rating_images_star.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/node_modules_reactnativeelements_src_rating_images_heart.png",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeelements_src_rating_images_heart.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/node_modules_reactnativestars_exampleimages_starfilled.png",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/src/main/res/drawable-mdpi/node_modules_reactnativestars_exampleimages_starfilled.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/1411b4607b77a4fd91a159d5de2abef9/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/src_img_page2.png",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/src/main/res/drawable-mdpi/src_img_page2.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/661643ef67cff0accdaf2b6a153a275c/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_arrow_back_black_24dp.png",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/node_modules/react-native-navigation/lib/android/app/build/intermediates/packaged_res/reactNative56/release/drawable-mdpi-v4/ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/design_ic_visibility.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f1cd7818bcf4b7fd75cadffd9d561b46/res/drawable-mdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/1411b4607b77a4fd91a159d5de2abef9/res/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/src_img_page4.png",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/src/main/res/drawable-mdpi/src_img_page4.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/src_img_img2.png",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/src/main/res/drawable-mdpi/src_img_img2.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/1411b4607b77a4fd91a159d5de2abef9/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/661643ef67cff0accdaf2b6a153a275c/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/src_img_profil.png",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/src/main/res/drawable-mdpi/src_img_profil.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/node_modules_reactnativeelements_src_rating_images_bell.png",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeelements_src_rating_images_bell.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/661643ef67cff0accdaf2b6a153a275c/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/src_img_1024l.png",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/src/main/res/drawable-mdpi/src_img_1024l.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/src_img_back.png",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/src/main/res/drawable-mdpi/src_img_back.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/1411b4607b77a4fd91a159d5de2abef9/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/src_img_splash.jpg",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/src/main/res/drawable-mdpi/src_img_splash.jpg"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/1411b4607b77a4fd91a159d5de2abef9/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/src_img_page3.png",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/src/main/res/drawable-mdpi/src_img_page3.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/src_img_nocnx.png",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/src/main/res/drawable-mdpi/src_img_nocnx.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/node_modules_reactnativestars_exampleimages_starempty.png",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/src/main/res/drawable-mdpi/node_modules_reactnativestars_exampleimages_starempty.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4/src_img_connexionbg.jpg",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/src/main/res/drawable-mdpi/src_img_connexionbg.jpg"
+    }
+]

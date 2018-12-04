@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/d1795636861b4e56f21c1b6d29368c6e/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/xml/provider_paths.xml",
+        "source": "/Users/ab/Desktop/Sanofi/MyInitiative/node_modules/react-native-image-picker/android/build/intermediates/packaged_res/release/xml/provider_paths.xml"
+    }
+]

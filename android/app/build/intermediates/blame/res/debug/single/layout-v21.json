@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ab/Documents/GitHub/react-native-starter-kit-android/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_item.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/35ebed36f82eb1c50600b589ab52ada0/res/layout-v21/bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/ab/Documents/GitHub/react-native-starter-kit-android/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/661643ef67cff0accdaf2b6a153a275c/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ab/Documents/GitHub/react-native-starter-kit-android/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/661643ef67cff0accdaf2b6a153a275c/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ab/Documents/GitHub/react-native-starter-kit-android/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/661643ef67cff0accdaf2b6a153a275c/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ab/Documents/GitHub/react-native-starter-kit-android/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/661643ef67cff0accdaf2b6a153a275c/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ab/Documents/GitHub/react-native-starter-kit-android/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_small_item.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/35ebed36f82eb1c50600b589ab52ada0/res/layout-v21/bottom_navigation_small_item.xml"
+    }
+]

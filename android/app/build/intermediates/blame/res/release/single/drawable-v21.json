@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-v21/item_background.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/35ebed36f82eb1c50600b589ab52ada0/res/drawable-v21/item_background.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-v21/design_password_eye.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f1cd7818bcf4b7fd75cadffd9d561b46/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f1cd7818bcf4b7fd75cadffd9d561b46/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/0d27602eadea6647f3561adfc3422d37/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-v21/avd_show_password.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f1cd7818bcf4b7fd75cadffd9d561b46/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/661643ef67cff0accdaf2b6a153a275c/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/ab/Desktop/Sanofi/MyInitiative/android/app/build/intermediates/res/merged/release/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/ab/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f1cd7818bcf4b7fd75cadffd9d561b46/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    }
+]

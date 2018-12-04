@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ab/Documents/GitHub/react-native-starter-kit-android/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/ab/Documents/GitHub/react-native-starter-kit-android/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ab/Documents/GitHub/react-native-starter-kit-android/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher_round.png",
+        "source": "/Users/ab/Documents/GitHub/react-native-starter-kit-android/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]

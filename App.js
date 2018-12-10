@@ -1,6 +1,6 @@
 import {Navigation} from 'react-native-navigation'
 
-import Home from './src/pages/Home'
+import Home from './src/Home'
 
 Navigation.registerComponent("Home",() => Home)
 

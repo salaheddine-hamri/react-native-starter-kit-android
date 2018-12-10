@@ -1,7 +1,7 @@
 
 ## 👋 Intro
 
-The project is _super_ helpful to kick-start your next project, as it provides a lot of the common tools you may reach for, all ready to go:
+The project is _super_ helpful to kick-start your next project (for Android only, if you want for iOS click [HERE](https://github.com/salaheddine-hamri/react-native-starter-kit-ios)), as it provides a lot of the common tools you may reach for, all ready to go:
 
 - __Navigation__
     - [React Native Navigation](https://github.com/wix/react-native-navigation)
@@ -81,12 +81,12 @@ The project is _super_ helpful to kick-start your next project, as it provides a
 git clone https://github.com/salaheddine-hamri/react-native-starter-kit-android.git
 
 # Install dependencies
-yarn install
+npm install
 ```
 
 #### 2. Run the React Native App
 
 ```bash
 # Start the React Native packager
-yarn start
+react-native run-android
 ```
